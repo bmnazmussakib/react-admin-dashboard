@@ -1,1 +1,0 @@
-All middleware file will be in middleware folder.

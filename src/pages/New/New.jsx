@@ -1,11 +1,12 @@
 import React from 'react';
+import './New.scss';
 
-const index = () => {
+const New = () => {
     return (
         <div>
-            <h1>Contact</h1>
+            New
         </div>
     );
 };
 
-export default index;
+export default New;

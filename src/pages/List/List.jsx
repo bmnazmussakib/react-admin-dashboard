@@ -1,11 +1,12 @@
 import React from 'react';
+import './List.scss';
 
-const index = () => {
+const List = () => {
     return (
         <div>
-            <h1>About</h1>
+            List
         </div>
     );
 };
 
-export default index;
+export default List;
