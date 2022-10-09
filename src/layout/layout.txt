@@ -1,0 +1,4 @@
+All common component will be in layout folder.
+
+1. Header
+2. Footer
